@@ -1,10 +1,12 @@
 ### Olá eu sou o jonatan, bem vindo ao perfil 👋
 <P>PROGRAMADOR WEB E MOBILE <P> 
-Desenvolvimento de aplicativo e paginas da web:<P>
+Desenvolvimento de aplicativo Android, IOS, paginas da web e teste de qualidade com software POSTMAN:<P>
 <P>- Site de compras<P>
 <P>- Site institucional<P>
 <P>- Site de divulgação<P>
 <P>- Aplicativos de compras, namoro, conversas, rastreamento, conversor de moeda fisica para digital tipo bitcoin.<P> 
+
+<P>Conhecimento em JAVASCRIPT, REACT, HTML, CSS, PYTHON, FLASK, PHP, ANDROIISTUDIO<P>
 
 <div style="display: inline_block"><br> <P>
   <img align="center" alt="jsl-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
