@@ -1,6 +1,10 @@
 ### Olá eu sou o jonatan, bem vindo ao perfil 👋
 PROGRAMADOR WEB E MOBILE
-Desenvolvimento de paginas da web: Site de compras, site institucional, site de apresentação 
+Desenvolvimento de aplicativo e paginas da web:
+- Site de compras
+- Site institucional
+- Site de divulgação
+- Aplicativos de compras, namoro, conversas, rastreamento, conversor de moeda fisica para digital tipo bitcoin. 
 
 <div style="display: inline_block"><br> <P>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
